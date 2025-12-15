@@ -1,0 +1,15 @@
+{
+  "name": "chai-backend",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Prabhat Yadav",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
